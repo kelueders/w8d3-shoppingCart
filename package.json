@@ -1,0 +1,18 @@
+{
+  "name": "day_3-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js",
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kate",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^9.0.2",
+    "uuid": "^9.0.0"
+  }
+}
